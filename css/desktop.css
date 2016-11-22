@@ -1,0 +1,10 @@
+@media screen and (min-width: 900px) {
+  p,
+  .main-img {
+    width: 48%;
+  }
+
+  p {
+    margin-right: 4%;
+  }
+}
